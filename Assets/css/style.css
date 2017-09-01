@@ -1,0 +1,89 @@
+
+  body {
+    background-color: #292F36;
+  }
+
+  .links {
+    height: 20px;
+  }
+
+  .card-title {
+    margin-bottom: 0px;
+    text-align: center;
+  }
+
+  ul, {
+
+    background-color: #292F36;
+  }
+  
+  .jumbo {
+    padding: 5px;
+    height: 105px;
+    border-bottom: solid 1px;
+    background-color: #247BA0;
+    color: #FFE066;
+  }
+
+  .card {
+    height: 95px;
+    width: 270px;
+    border-width: 5px;
+    border-style: inset;
+    background-color: #292F36;
+    border-color: coral;
+    margin-top: 2px;
+    margin-left: 17px;
+  }
+
+  .row{
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .navbar-nav {
+    margin-right: 70px;
+}
+
+  .about {
+    margin-top: 20px;
+    padding: 5px;
+    border: outset coral;
+    border-radius: 5px;
+  }
+
+  form {
+    background-color: #50514F;
+    padding: 7px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: coral 3px inset;
+
+  }
+  /*.paragraph {
+    border: 1px solid;
+    margin-bottom: 20px;
+  }*/
+
+  .port-img {
+    height: 150px;
+    background-image: url(../images/placeholder.jpg);
+    padding: 5px;
+    background-size: 250px 250px;
+    width: 100%;
+  }
+
+  .port-row {
+    padding: 5px;
+  }
+
+  .port-con {}
+
+  .port-text {
+    text-align: center;
+    margin-top: 119px;
+    background-color: #292F36;
+    margin-right: -5px;
+    margin-left: -5px;
+
+  }
